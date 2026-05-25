@@ -1,0 +1,16 @@
+# Wofi configuration - Tokyo Night Centered Edition
+mode=drun
+show=drun
+width=500
+height=400
+location=center
+allow_markup=true
+allow_images=true
+sort_order=default
+matching=fuzzy
+insensitive=true
+term=kitty
+hide_scroll=true
+no_actions=true
+show_all=false
+print_command=false

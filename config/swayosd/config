@@ -1,0 +1,9 @@
+{
+  "position": "top",
+  "timeout": 2000,
+  "layer-shell": true,
+  "exclusive": false,
+  "layer": "overlay",
+  "margin": 10,
+  "max_volume": 100
+}
