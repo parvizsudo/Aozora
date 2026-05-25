@@ -185,4 +185,3 @@ cp -r TokyoNight.colors ~/.local/share/color-schemes
 **Enjoy your clean, TokyoNight Hyprland desktop!**
 For further help, check the [Hyprland Wiki](https://wiki.hypr.land) or the individual tool documentation.
 **If you like my configs, don't forget to leave a star ⭐**
-**
