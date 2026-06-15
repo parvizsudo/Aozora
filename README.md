@@ -1,9 +1,8 @@
 # Aozora Hyprland Dotfiles
 
 Welcome to my personal Parch Linux (Arch Based) dotfiles repo!
-A minimal, keyboard‑driven Hyprland configuration featuring the **Tokyo Night** color scheme.
-
-![Tokyo Night theme screenshot](wm.png)
+A minimal, keyboard‑driven Hyprland configuration.
+![screenshot](wm.png)
 
 I use [Parch Linux](https://parchlinux.com/en) (BTW)
 
