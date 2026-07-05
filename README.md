@@ -84,7 +84,7 @@ paru -S hyprland fish starship kitty cava fastfetch xorg-xwayland xdg-desktop-po
 ### 2. Clone or copy your dotfiles
 
 ```bash
-git clone https://github.com/Parviz-sudo/dotfiles
+git clone https://github.com/parvizsudo/Aozora
 cd dotfiles
 cp -r config/* ~/.config
 cp -r TokyoNight.colors ~/.local/share/color-schemes
